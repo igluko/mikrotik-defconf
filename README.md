@@ -1,5 +1,4 @@
 # mikrotik-defconf
-Exported default configuration. 
 
 Filename notation: defconf-&lt;ver>-&lt;model>.txt
 
